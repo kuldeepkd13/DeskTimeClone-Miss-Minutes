@@ -24,10 +24,6 @@ main {
   display: flex;
   gap: 4%;
   min-height: 100vh;
-  background-image: url(../images/miss-minutes-shy.png);
-  background-repeat: no-repeat;
-  background-position: right;
-  background-position: 100% 62%;
   background-color: #f5f5f6;
 }
 #login_form {
